@@ -1537,7 +1537,7 @@ img{
 	position:relative;
 	margin-bottom:50px;
 	padding-left:32px;
-	text-align:center;
+	text-align:left;
 }
 
 .sec-title h2{
@@ -3519,7 +3519,7 @@ img{
 
 .gallery-section{
 	position:relative;
-	padding:30px 0px 90px;
+	padding:0px 0px 20px;
 }
 
 .gallery-section.full-width{
@@ -3857,7 +3857,7 @@ img{
 
 .default-section-two{
 	position:relative;
-	padding:90px 0px 50px;
+	padding:90px 0px 0px;
 	background-size:cover;
 	background-repeat:repeat;
 }
@@ -3983,15 +3983,17 @@ img{
 .testimonial-block-one .inner-box .text{
 	position:relative;
 	color:#848484;
-	font-size:24px;
+	font-size:20px;
 	line-height:1.6em;
 	margin-bottom:20px;
+	text-align: justify;
+	font-weight: 400;
 }
 
 .testimonial-block-one .inner-box .author-name{
 	position:relative;
 	color:#252525;
-	font-size:18px;
+	font-size:20px;
 	font-weight:600;
 	margin-bottom:4px;
 }
@@ -4610,9 +4612,9 @@ img{
 .video-section .text{
 	position:relative;
 	color:#aaaaaa;
-	font-size:24px;
+	font-size:18px;
 	margin-bottom:50px;
-	line-height:1.4em;
+	line-height:1.8em;
 }
 
 .video-section .play-btn{
@@ -7293,7 +7295,7 @@ img{
 	font-size:20px;
 	font-weight:400;
 	max-width:1270px;
-	line-height: 22px;
+	line-height: 1.4em;
 	text-align:justify;
 	top: 28px;
 	left: -21px;
